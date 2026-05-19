@@ -32,6 +32,19 @@ The app includes:
 
 The user is first asked to choose an agent:
 
+---
+
+## Project Note
+
+This project was built manually by me while reading and following the OpenAI documentation.
+
+I did not use AI to generate the code for this project. I wanted to practice building it myself so I could improve my real understanding of Python, the OpenAI Agents SDK, tools, and agent workflows.
+
+This does not mean I do not know how to use AI tools. I do use AI tools for learning, debugging, and improving my workflow, but for this project I wanted to challenge myself and build the code manually.
+
+My goal is to keep improving my skills step by step as I work toward becoming an AI Engineer.
+
+
 ```text
 1: Math tutor
 2: History tutor
